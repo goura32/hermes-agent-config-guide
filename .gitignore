@@ -1,0 +1,28 @@
+# Source code (investigation only)
+source/hermes-agent/
+!README.md
+!*/README.md
+
+# Secrets
+.env
+.env*
+*.pem
+*.key
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary
+*.tmp
+*.bak
