@@ -98,4 +98,4 @@ cd hermes-agent-config-guide
 
 ## ライセンス
 
-このリポジトリの内容は [MIT License](LICENSE) に従います。
+本書のコンテンツはCC BY-SA 4.0ライセンスの下で提供されます。
